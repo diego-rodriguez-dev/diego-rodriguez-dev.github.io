@@ -53,7 +53,7 @@ webmaster_verifications:
   facebook: # fill in your Facebook verification code
 
 # ↑ --------------------------
-# The end of `jekyll-seo-tag` settings
+# The end of `jekyll-seo-tag` settings.
 
 # Web Analytics Settings
 analytics:
